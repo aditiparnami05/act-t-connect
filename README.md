@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Act-T Connect
 
 Premium Business ERP / Billing / Inventory / CRM built with Flutter.
@@ -81,3 +82,6 @@ lib/
 ## License
 
 Proprietary — Act-T Connect © 2026
+=======
+# act-t-connect
+>>>>>>> 30c27c521a9753f22138867ee59a60200b293ccb
